@@ -1,3 +1,6 @@
+FILEPATH = "todos_items.txt"
+
+
 def get_todos(filepath = "todos.txt"):
     """ Read the text file and return the list
     of to-do items
@@ -11,6 +14,7 @@ def get_todos(filepath = "todos.txt"):
 def write_todos(todos_arg, filepath="todos.txt"):
     with open(filepath,'w') as file:
         file.writelines(todos_arg)
+
 
 if __name__ == "__main__":
     print("Hello")
