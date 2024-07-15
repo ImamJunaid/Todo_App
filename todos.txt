@@ -1,5 +1,4 @@
 Clean the car
-cup of tea
 make the work fast
 make thd m
 New car
@@ -9,6 +8,9 @@ Look at the world
 Make the foot
 Free fire
 My newest todo is added
-
 Get into the bike
 Come to my home
+cup of tea
+Add a new player
+Add bike
+HELLO WORLD
